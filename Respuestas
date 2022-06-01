@@ -5,4 +5,25 @@
   Para poder trabajar con códigos de otros usuarios y modificarlos.
  
 3)Que comando nos permite iniciar un repositorio de forma local?
+  git init
   
+4)Que es un commit?
+  Se refiere a confirmar o guardar un cambio en el repositorio.
+  
+5)Cómo se descarga un repositorio?
+  Con git pull
+  
+6)Con qué comando se cambia de rama en git?
+  git checkout nombreDelaRama
+  
+7)Cómo se sube el contenido de tu rama principal de local al remoto?
+  git push origin master
+  
+8)Qué es GitHub?
+  Un repositorio remoto para subir contenido
+  
+9)Con qué comando se puede enviar el contenido de una rama a la master?
+  git merge nombreDelaRama
+  
+10)Para qué sirve el botón Fork en GitHub?
+  Para hacer una copia de un repositorio que creaste.
